@@ -21,7 +21,6 @@ Pygments==2.7.1
 PyMsgBox==1.0.9
 pyperclip==1.8.2
 pymysql==1.0.2
-pypiwin32==223
 PyQt5==5.15.0
 PyQt5-sip==12.8.0
 PyRect==0.1.4
