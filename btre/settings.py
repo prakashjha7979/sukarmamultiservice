@@ -25,7 +25,7 @@ SECRET_KEY = '%k$)@g-na_%h@^&od@g_cf+8-@c2wzph0a-k0#g8l#@elrq=w='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1:8000']
+ALLOWED_HOSTS = ['127.0.0.1:8000','sukarmarealestate.herokuapp.com']
 
 
 # Application definition
