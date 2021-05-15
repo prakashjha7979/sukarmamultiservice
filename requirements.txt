@@ -16,7 +16,6 @@ psycopg2-binary==2.8.6
 PyAutoGUI==0.9.52
 pycryptodome==3.9.8
 pycryptodomex==3.9.8
-pygame==1.9.6
 PyGetWindow==0.0.9
 Pygments==2.7.1
 PyMsgBox==1.0.9
